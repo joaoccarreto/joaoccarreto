@@ -53,14 +53,6 @@ I'm passionate about finding patterns in data, building models that actually wor
 
 ---
 
-## Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=data-saurusrex&layout=donut&theme=dark&hide_border=true&langs_count=6" height="200"/>
-</p>
-
----
-
 <p align="center">
   <i>Open to internships, research collaborations, and interesting data problems.</i>
 </p>
