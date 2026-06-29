@@ -47,9 +47,9 @@ I'm passionate about finding patterns in data, building models that actually wor
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [food-budget-regression](https://github.com/data-saurusrex/food-budget-regression) | Multiple linear regression to predict household food expenditure share — 7 OLS/polynomial/WLS models, AIC-selected | R |
-| [housing-price-clustering](https://github.com/data-saurusrex/housing-price-clustering) | PCA + K-Means clustering on housing price data — silhouette-optimised segmentation | R |
-| [tennis-match-prediction](https://github.com/data-saurusrex/tennis-match-prediction) | Binary classification (2 vs 3 sets) on ATP Japan matches — 13 models, CRISP-DM methodology | Python |
+| [food-budget-regression](https://github.com/joaoccarreto/food-budget-regression) | Multiple linear regression to predict household food expenditure share — 7 OLS/polynomial/WLS models, AIC-selected | R |
+| [housing-price-clustering](https://github.com/joaoccarreto/housing-price-clustering) | PCA + K-Means clustering on housing price data — silhouette-optimised segmentation | R |
+| [tennis-match-prediction](https://github.com/joaoccarreto/tennis-match-prediction) | Binary classification (2 vs 3 sets) on ATP Japan matches — 13 models, CRISP-DM methodology | Python |
 
 ---
 
